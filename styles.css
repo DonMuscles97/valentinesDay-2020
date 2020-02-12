@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body {
+  background: pink;
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  color: crimson;
+}
+
+.btn{
+  background: crimson;
+  color: white;
+}
